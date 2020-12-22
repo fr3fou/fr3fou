@@ -1,3 +1,5 @@
 ### Hi! 👋 You can check out my website at [simo.sh](https://simo.sh)!
 
-[![fr3fou's github stats](https://github-readme-stats.vercel.app/api?username=fr3fou&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Check out my latest video!
+
+[![Piral Demo](http://i3.ytimg.com/vi/ZExHfN8I9BQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=ZExHfN8I9BQ "Piral Demo")
