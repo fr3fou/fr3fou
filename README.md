@@ -1,6 +1,22 @@
-![city](https://github.com/fr3fou/fr3fou/assets/1344906/3d3f64b0-3e84-41f2-a523-baf0bc8c35ac)
+<p float="left">
+ <img src="https://github.com/fr3fou/fr3fou/assets/1344906/63c5d2ca-1deb-473c-a1f0-040dd7eb120d" width="250" align="left">
+  <p float="left">
+    <samp>
+      :3 
+      <br>
+      <br>
+      tools: go, ts, react, next, sql, k8s, terraform
+      <br>
+      projects: <a href="https://pushmarketplace.com">push</a>, <a href="https://github.com/fr3fou/gone">gone</a>, <a href="https://luncherbox.deliprods.com/">luncherbox</a>, and <a href="https://simo.sh/projects">more</a>
+      <br>
+      <br>
+      <a href="https://simo.sh">website</a>
+      <br>
+      <b>
+    </samp>
+    <br>
+    <br>
+    <img src="https://hits.sh/github.com/fr3fou.svg?label=%20&color=555555&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAATdJREFUSEu1Ve2NwyAMNYriKFukm7SbtJu0k1w3uW7SbhHJUURlhJGPS8HocvwNeR%2F48XDwz8u14hPRFwAcEfFg%2BbeJgIi%2BGZyBEdH0r2kTA0bl56j6gYin3Rwsy3L03rN6WXdEvOxCkIHfAYBd7EMwz%2FPUdd2TlXrvr865KRJcEJHJqqs4AzXUcOZqDn8nUOAviSQRsZtpXdfDOI6vqnwA2HSgE%2BOcO%2FV9%2F4hJ8hZQAEiifhHooWrwjaiWuFKMfxCUwGvKP7lOBHlihmG41UDle0lYItA1UAFO58v7aq41AZeYVEGRQ3rI4trcRUppGmB%2BT7ZUmQmIiN2xy1ATW%2FdkN4IIFI4zj3JO0uJAZiSFVwUPAqxRzN4DE3grQeghaVbrPWlxID1kfs1aHTQ99nL0ZgfWWeX73rIoxBnUYMQfAAAAAElFTkSuQmCC" width="50px"/>
+  </p>
+</p>
 
-
-[![Hits](https://hits.sh/github.com/fr3fou.svg?label=%20&color=555555&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAATdJREFUSEu1Ve2NwyAMNYriKFukm7SbtJu0k1w3uW7SbhHJUURlhJGPS8HocvwNeR%2F48XDwz8u14hPRFwAcEfFg%2BbeJgIi%2BGZyBEdH0r2kTA0bl56j6gYin3Rwsy3L03rN6WXdEvOxCkIHfAYBd7EMwz%2FPUdd2TlXrvr865KRJcEJHJqqs4AzXUcOZqDn8nUOAviSQRsZtpXdfDOI6vqnwA2HSgE%2BOcO%2FV9%2F4hJ8hZQAEiifhHooWrwjaiWuFKMfxCUwGvKP7lOBHlihmG41UDle0lYItA1UAFO58v7aq41AZeYVEGRQ3rI4trcRUppGmB%2BT7ZUmQmIiN2xy1ATW%2FdkN4IIFI4zj3JO0uJAZiSFVwUPAqxRzN4DE3grQeghaVbrPWlxID1kfs1aHTQ99nL0ZgfWWeX73rIoxBnUYMQfAAAAAElFTkSuQmCC)](https://hits.sh/github.com/fr3fou/)
-
-`:3`
