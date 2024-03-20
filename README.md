@@ -7,7 +7,7 @@
       <br>
       tools: go, ts, react, next, sql, k8s, terraform
       <br>
-      projects: <a href="https://pushmarketplace.com">push</a>, <a href="https://github.com/fr3fou/gone">gone</a>, <a href="https://luncherbox.deliprods.com/">luncherbox</a>, <a href="https://app.findaudit.xyz/">findaudit</a>, <a href="https://github.com/DeliriumProducts/aumo">aumo</a>, and <a href="https://simo.sh/projects">more</a>
+      projects: <a href="https://pushmarketplace.com">push</a>, <a href="https://github.com/fr3fou/gone">gone</a>, <a href="https://luncherbox.deliprods.com/">luncherbox</a>, <a href="https://findaudit.xyz/">findaudit</a>, <a href="https://github.com/DeliriumProducts/aumo">aumo</a>, and <a href="https://simo.sh/projects">more</a>
       <br>
       <br>
       <a href="https://simo.sh">website</a>
