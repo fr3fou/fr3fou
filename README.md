@@ -5,7 +5,7 @@
       :3 
       <br>
       <br>
-      tools: go, ts, react, next, sql, k8s, terraform
+      tools: go, ts, react, sql, k8s, terraform
       <br>
       projects: <a href="https://pushmarketplace.com">push</a>, <a href="https://findaudit.xyz/">findaudit</a>, <a href="https://github.com/fr3fou/gone">gone</a>, <a href="https://luncherbox.deliprods.com/">luncherbox</a>, <a href="https://github.com/DeliriumProducts/aumo">aumo</a>, and <a href="https://simo.sh/projects">more</a>
       <br>
