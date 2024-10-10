@@ -11,6 +11,11 @@
       <br>
       <br>
       <a href="https://simo.sh">website</a>
+      <br>
+      latest entries:
+      <a href="https://simo.sh/blog/system-observability">system observability</a>, <a href="https://simo.sh/study">study notes</a>, <a href="https://simo.sh/notes/migrating-raycast-clipboard-history">raycast clipboard history</a>
+      <br>
+      <br>
       <b>
     </samp>
     <br>
